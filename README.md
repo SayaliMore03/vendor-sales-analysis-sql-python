@@ -46,16 +46,6 @@ The workflow includes an automated **data ingestion pipeline with logging**, str
 
 ---
 
-##  Repository Structure
-- `README.md` → Project documentation
-- `scripts/` → Python scripts for ingestion pipeline & logging  
-- `notebooks/` → Jupyter notebooks for SQL + Python EDA  
-- `dashboards/` → Power BI dashboard file (.pbix) and screenshots  
-- `requirements.txt` → Python dependencies  
-  
-
----
-
 ##  Key Highlights
 - Built a **data ingestion pipeline** with logging.  
 - Combined **SQL + Python** for deeper insights.  
