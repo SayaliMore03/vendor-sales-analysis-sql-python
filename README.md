@@ -9,7 +9,7 @@ The workflow includes an automated **data ingestion pipeline with logging**, str
 1. **Data Ingestion Pipeline**
    - Python script to load raw data into MySQL.
    - Logging implemented for tracking ingestion and preprocessing steps.
-   - Ensures reliable and traceable data flow.
+   
 
 2. **Exploratory Data Analysis (EDA)**
    - Conducted in **Jupyter Notebook** using SQL queries and Python.
@@ -62,8 +62,8 @@ The workflow includes an automated **data ingestion pipeline with logging**, str
 - Created an **interactive Power BI dashboard** for decision-making.  
 - Delivered actionable vendor sales insights for business strategy.  
 
----
 
 
 
----
+
+
